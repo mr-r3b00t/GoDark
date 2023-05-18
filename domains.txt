@@ -32,3 +32,15 @@ watson.live.com
 watson.microsoft.com
 telemetry.remoteapp.windowsazure.com
 telemetry.urs.microsoft.com
+cloudapp.azure.com
+azure.com
+azurewebsites.net
+.a-msedge.net
+bing.com
+bingforbusiness.com
+westus.cloudapp.azure.com
+.zip
+vmss-prod-wus.westus.cloudapp.azure.com
+twc.trafficmanager.net
+time.windows.com
+wd-prod-ss-uk-south-1-fe.uksouth.cloudapp.azure.com
