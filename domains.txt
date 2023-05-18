@@ -44,3 +44,10 @@ vmss-prod-wus.westus.cloudapp.azure.com
 twc.trafficmanager.net
 time.windows.com
 wd-prod-ss-uk-south-1-fe.uksouth.cloudapp.azure.com
+v0cnn.net
+trafficmanager.net
+checkappexec.microsoft.com
+wd-prod-ss.trafficmanager.net
+wd-prod-ss-uk-west-1-fe.ukwest.cloudapp.azure.com
+dmd.metaservices.microsoft.com
+go.microsoft.com
