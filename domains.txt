@@ -51,3 +51,6 @@ wd-prod-ss.trafficmanager.net
 wd-prod-ss-uk-west-1-fe.ukwest.cloudapp.azure.com
 dmd.metaservices.microsoft.com
 go.microsoft.com
+cxcs.microsoft.net
+www.bing.com
+fe2cr.update.microsoft.com
