@@ -61,3 +61,5 @@ edge.microsoft.com
 ntp.msn.com
 business.bing.com
 bing.com
+umwatson.events.data.microsoft.com
+ctldl.windowsupdate.com
