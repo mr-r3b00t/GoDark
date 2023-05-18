@@ -54,3 +54,4 @@ go.microsoft.com
 cxcs.microsoft.net
 www.bing.com
 fe2cr.update.microsoft.com
+download.windowsupdate.com
