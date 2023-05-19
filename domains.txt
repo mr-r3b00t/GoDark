@@ -63,3 +63,7 @@ business.bing.com
 bing.com
 umwatson.events.data.microsoft.com
 ctldl.windowsupdate.com
+config.edge.skype.com
+login.live.com
+config.edge.skype.com
+msedge.api.cdp.microsoft.com
