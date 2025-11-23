@@ -67,3 +67,4 @@ config.edge.skype.com
 login.live.com
 config.edge.skype.com
 msedge.api.cdp.microsoft.com
+copilot.microsoft.com
